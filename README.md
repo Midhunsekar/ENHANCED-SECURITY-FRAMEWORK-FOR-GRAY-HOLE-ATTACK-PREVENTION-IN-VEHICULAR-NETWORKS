@@ -1,5 +1,6 @@
-Academics
+
 🚗 An Efficient Approach for the Detection and Prevention of Gray-Hole Attacks in VANETs
+
 📄 Description
 This project proposes a novel and efficient method for detecting and preventing Gray-Hole attacks in Vehicular Ad Hoc Networks (VANETs). Gray-Hole attacks selectively drop or modify packets, compromising network reliability and security. Our approach uses anomaly detection techniques, dynamic trust and reputation management, and secure routing protocols to mitigate such threats.
 
